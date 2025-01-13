@@ -1,0 +1,56 @@
+nav{
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+}
+#main_bio{
+    display: flex;
+    align-items: center;
+    padding-left: 25%;
+    padding-right: 30%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+#name{
+    font-size: 25px;
+    font-family: sans-serif;
+}
+a{
+    font-size: 30px;
+    font-family: sans-serif;
+    color: black;
+}
+#links{
+    padding-top: 20px;
+}
+main{
+    background-color: gray;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+img{
+    border-radius: 50%;
+    height: 50%;
+    width: 50%;
+}
+.bio_name{
+    font-size: 70px;
+    padding-right: 70px;
+    color: aliceblue;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+#lastname{
+    margin-top: 0px;
+}
+#firstname{
+    margin-bottom: 0px;
+}
+#basic_info{
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    padding-left: 20%;
+    padding-right: 20%;
+    color: aliceblue;
+    padding-bottom: 5%;
+}
