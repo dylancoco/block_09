@@ -88,3 +88,27 @@ img{
     border-radius: 0;
     padding-right: 2%;
 }
+#luigi{
+    border-radius: 0;
+    float: right;
+    width: 15%;
+    padding-left: 5%;
+}
+#grade{
+    border-radius: 0;
+    float: right;
+    width: 20%;
+    padding-left: 5%;
+}
+.port_content{
+    margin: 2%;
+    padding: 2%;
+    background-color: white;
+    color: black;
+}
+.port_content p{
+    font-size: 20px;
+}
+#container{
+    padding-bottom: 2%;
+}
