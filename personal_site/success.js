@@ -1,3 +1,3 @@
 setTimeout(() => {
-    window.location.href = window.location.origin + '/personal_site/index.html'
+    window.location.href = window.location.origin 
   }, 5000)
