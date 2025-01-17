@@ -32,6 +32,7 @@ main{
     margin-left: 10%;
     margin-right: 10%;
     color: aliceblue;
+    min-height: 100vh;
 }
 img{
     border-radius: 50%;
@@ -114,6 +115,31 @@ img{
 }
 #container{
     padding-bottom: 2%;
+}
+#submit{
+    display: flex;
+    flex-direction: column;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+input{
+    height: 30px;
+}
+#message{
+    height: 100px;
+}
+label{
+    font-size: 30px;
+}
+#title{
+    font-size: 60px;
+}
+button{
+    width: 70px;
+    margin-top: 2%;
+}
+#success{
+    padding-top: 8%;
 }
 
 @media screen and (max-width: 480px){
